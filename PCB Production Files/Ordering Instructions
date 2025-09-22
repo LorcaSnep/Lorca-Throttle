@@ -1,0 +1,17 @@
+For all of the prototypes, I have ordered from JLCPCB so I recommend ordering from them.  The prices are reasonable enough for the quality.
+
+Simply upload the entire zip file to the JLC "Add Gerber File" section and change the following settings:
+
+For the zip file listed as "Lorca Throttle V3.2.zip" use the following settings:
+PCB Thickness:  1.0mm
+Mark on PCB:  Remove Mark (Not necessary but it removes the JLC internal serial number from the boards)
+Castellated Holes:  Yes
+ -- Edges:  2
+All other options can be left as is.
+
+For the zip file listed as "Lorca Throttle KP V3.2.zip" use the following settings:
+PCB Thickness:  1.0mm
+Mark on PCB:  Remove Mark (Not necessary but it removes the JLC internal serial number from the boards)
+All other options can be left as is.
+
+Stencils are basically necessary to assemble these boards.  Due the size of the components, I recommend using the hot plate soldering technique for assembly.  Order stencils only for the side with components of the smaller module and one of both sides for the module with the keys.  (The rear side of the Keypad board will have to be hand soldered however using solder paste with the stencil makes this process significantly easier)
