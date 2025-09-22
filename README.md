@@ -6,8 +6,13 @@ This device is based on the ESP32-WROOM-32E microprocessor on a custom designed 
 
 As of 9/21/25, the electronics are nearly finalized.  Each aspect of them is functioning and I am waiting on the delivery of version 3.2 of the PCBs and the 3D printed case components.  This should conclude the prototype phase for the PCBs.  The one aspect of the PCBs that will not be populated and will be left for a future version is the hardware for a charging dock based on pogo pins.
 
-![Error](Images/Lorca Throttle V3.2 Front.PNG)
+Prototype V3.1 running on battery power connected to my personal JMRI Withrottle server:
 
-![Error](Images/Lorca Throttle V3.2 Back.PNG)
 
-![Error](Images/Lorca Throttle V3.2 Bottom.PNG)
+
+
+![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V3.2%20Front.PNG)
+
+![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V3.2%20Back.PNG)
+
+![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V3.2%20Bottom.PNG)
