@@ -7,9 +7,13 @@ The DCC-EX project represents a remarkable achievement for model railroading.  F
 This device is based on the ESP32-WROOM-32E microprocessor on a custom designed pair of boards running the WiTcontroller code (https://github.com/flash62au/WiTcontroller) written by Peter Akers.  Having used a throttle based on this code for approximately 1 year, it has proven to be quite reliable and has a wide feature set that I appreciate including integration with JMRI rosters, function lists, and accessory decoder lists.
 
 ## Current Status:
+As of 10/28/25, I am awaiting delivery of the parts for V4.1.  This is an incremental change over V4.0 to correct several errors in the design of the Buck Converter circuit
+
 As of 10/13/25, I am awaiting delivery of the parts for V3.4.  This iterates on V3.3 which was the first version I was able to fully assemble.  This version had some fit and finish issues but it was fundamentally functional.  These issues were mainly limited to the keys, the throttle knob, and the depth of the cutout in the rear casing.  This version also changes the design.
 
 There will be a V4.0 of the electronics.  This has some fairly significant changes.  It switches from an LDO to a Buck converter.  This should result in significantly improved battery life.  It also switches battery management chips from the TP4057 to the BQ24075RGTR.  The final change is a swap from the 28 pin CP2102 to the smaller 24 pin version.  This is simply a footprint change and does not have an effect on the functionality.
+
+Additionally, I am working to code an application to allow for a much easier programming process.  It will function in a similar way to the DCC-EX installer where it is an application that is downloaded to your computer, then some personalized changes are implemented in it, then the code is programmed to the throttle via the command line version of Arduino IDE.
 
 ## Images:
 Prototype V3.3 running on battery power connected to my personal JMRI Withrottle server (Note: The colors and the materials of the device are not finalized and are limited to those offered by JLCPCB): 
