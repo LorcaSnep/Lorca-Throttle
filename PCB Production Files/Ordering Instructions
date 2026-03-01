@@ -2,14 +2,14 @@ For all of the prototypes, I have ordered from JLCPCB so I recommend ordering fr
 
 Simply upload the entire zip file to the JLC "Add Gerber File" section and change the following settings:
 
-For the zip file listed as "Lorca Throttle V3.2.zip" use the following settings:
+For the zip file listed as "Lorca Throttle Module V4.2.zip" use the following settings:
 PCB Thickness:  1.0mm
 Mark on PCB:  Remove Mark (Not necessary but it removes the JLC internal serial number from the boards)
 Castellated Holes:  Yes
  -- Edges:  2
 All other options can be left as is.
 
-For the zip file listed as "Lorca Throttle KP V3.2.zip" use the following settings:
+For the zip file listed as "Lorca Throttle KP V4.2.zip" use the following settings:
 PCB Thickness:  1.0mm
 Mark on PCB:  Remove Mark (Not necessary but it removes the JLC internal serial number from the boards)
 All other options can be left as is.
