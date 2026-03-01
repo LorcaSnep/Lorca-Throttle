@@ -18,7 +18,7 @@ Additionally, I am working to code an application to allow for a much easier pro
 ## Images:
 Prototype V3.3 running on battery power connected to my personal JMRI Withrottle server (Note: The colors and the materials of the device are not finalized and are limited to those offered by JLCPCB): 
 
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V3.4.jpg)
+![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg)
 
 Current 3D design of the entire device:
 
