@@ -13,20 +13,24 @@ As of 3/1/26, I am awaiting delivery of parts for V4.2 of the PCBs.  This is a v
 Prototype V4.1 running on battery power connected to my personal JMRI Withrottle server (Note: The colors and the materials of the device are not finalized): 
 
 <p align="center">
-  <img width="3072" height="4080" srs="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg">
+  <img src="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg" alt="Lorca Throttle V4.1" width="400"/>
 </p>
-
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg)
 
 Current 3D design of the entire device:
 
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Front.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Front.PNG" alt="Lorca Throttle V4.2 Front" width="400"/>
+</p>
 
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Back.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Back.PNG" alt="Lorca Throttle V4.2 Back" width="400"/>
+</p>
 
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Bottom.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Bottom.PNG" alt="Lorca Throttle V4.2 Bottom" width="400"/>
+</p>
 
-## Build Instructions:
+## Build Instructions (Outdated):
 Once all of the parts have arrived, assemble the boards according to the component designators as listed in the Bill of Materials file.  I recommend ordering stencils with the boards and using hot plate soldering with solder paste to assemble them. Once the boards are assembled, it is a good time to upload the code to them.  For the most part, follow the steps as laid out in the original WiTcontroller instructions.  However the following changes need to be made in the config_buttons.h file:<br>
 -Swap the keypad column pins to {4, 26, 2} (Ensure the code is set for the 4x3 keypad and not the 4x4 one)<br>
 -Set Encoder Rotation to "Clockwise is increase speed"<br>
