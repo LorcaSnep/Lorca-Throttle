@@ -13,8 +13,11 @@ As of 3/1/26, I am awaiting delivery of parts for V4.2 of the PCBs.  This is a v
 Prototype V4.1 running on battery power connected to my personal JMRI Withrottle server (Note: The colors and the materials of the device are not finalized): 
 
 <p align="center">
-![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg)
+  <img width="3072" height="4080" srs="https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg">
 </p>
+
+![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg)
+
 Current 3D design of the entire device:
 
 ![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Front.PNG)
