@@ -13,9 +13,8 @@ As of 3/1/26, I am awaiting delivery of parts for V4.2 of the PCBs.  This is a v
 Prototype V4.1 running on battery power connected to my personal JMRI Withrottle server (Note: The colors and the materials of the device are not finalized): 
 
 <p align="center">
-
 ![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2.jpg)
-
+</p>
 Current 3D design of the entire device:
 
 ![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Front.PNG)
@@ -23,8 +22,6 @@ Current 3D design of the entire device:
 ![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Back.PNG)
 
 ![Error](https://github.com/LorcaSnep/Lorca-Throttle/blob/main/Images/Lorca%20Throttle%20V4.2%20Bottom.PNG)
-
-</p>
 
 ## Build Instructions:
 Once all of the parts have arrived, assemble the boards according to the component designators as listed in the Bill of Materials file.  I recommend ordering stencils with the boards and using hot plate soldering with solder paste to assemble them. Once the boards are assembled, it is a good time to upload the code to them.  For the most part, follow the steps as laid out in the original WiTcontroller instructions.  However the following changes need to be made in the config_buttons.h file:<br>
